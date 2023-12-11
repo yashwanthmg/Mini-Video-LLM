@@ -39,7 +39,7 @@ This mini project combines speech recognition, object recognition, and text summ
 	
 3. Prepare your video clip:
 
-	Place the video clip you want to summarize in the videos/ directory.
+	Place the video clip you want to summarize in the videos directory.
 
 4. Run the scripts:
 
